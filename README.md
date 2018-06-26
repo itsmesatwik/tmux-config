@@ -5,7 +5,8 @@ Satwik's tmux config
 * Change current directory to the repo `cd /../this_repo`
 * Run the shell script
 ```
-chmod 755 run_this.sh
+chmod +x run_this.sh
 ./run_this.sh
 ```
+* Clean up `cd ..` `rm -rf tmux-config`
 * Enjoy
