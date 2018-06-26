@@ -1,5 +1,5 @@
 #!/bin/bash
-mv ./tmux.config ~/.tmux.config
+cp tmux.config ~/.tmux.config
 echo "Replaced tmux.config"
-sleep(5)
+sleep 5
 clear
